@@ -1,2 +1,2 @@
-# clothing-management-system
-This project is a console-based Clothing Management System developed using C++. It allows users to browse clothing items, accessories, and footwear, add products to a shopping cart, apply discount coupons, and generate a final bill. The system demonstrates various Object-Oriented Programming concepts such as inheritance, polymorphism, templates, exception handling, and file handling for storing cart details.
+# clothing-shopping-system
+This project is a console-based Clothing shopping System developed using C++. It allows users to browse clothing items, accessories, and footwear, add products to a shopping cart, apply discount coupons, and generate a final bill. The system demonstrates various Object-Oriented Programming concepts such as inheritance, polymorphism, templates, exception handling, and file handling for storing cart details.
